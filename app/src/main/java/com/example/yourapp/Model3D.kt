@@ -1,0 +1,1 @@
+data class Model3D(val id: String, val name: String, val vertices: List<Float>, val faces: List<Int>)
